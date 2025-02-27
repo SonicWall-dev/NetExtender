@@ -1,6 +1,6 @@
  # SonicWall NetExtender
  
-**SonicWall NetExtender** is a lightweight **SSL VPN client** that allows remote users to securely connect to a corporate network. It provides **full network access** over an encrypted tunnel, supporting **file transfers, drive mapping, and application usage** as if you were on the local network. 
+SonicWall NetExtender is a lightweight SSL VPN client that allows remote users to securely connect to a corporate network. It provides full network access over an encrypted tunnel, supporting file transfers, drive mapping, and application usage as if you were on the local network. 
 
 
 - [Installation](#installation) 
